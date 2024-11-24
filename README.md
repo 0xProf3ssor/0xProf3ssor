@@ -46,12 +46,14 @@ When I’m not coding, I’m exploring futuristic technologies that bridge the g
 - **Machine Learning**: Diving deep into algorithms and data science using Scikit-learn and TensorFlow.
 - **AI Integration**: Exploring how to integrate AI into IoT and robotics systems.
 
-## 🚀 Projects
+## 📂 Featured Projects  
 
-Here are some of my projects:
+🌟 **[Atomic Health](https://github.com/devshahed/atomic-health):** A futuristic health app prototype (HTML).  
 
-- [Atomic Health](https://github.com/devshahed/atomic-health): A health-related project built with HTML.
-- [Launch Page](https://github.com/devshahed/launchpage): A clean landing page made using CSS.
+🌟 **[Pofo Portfolio](https://github.com/devshahed/pofo-portfolio):** A CSS-powered portfolio showcasing creativity.  
+
+🌟 **[LaunchPage](https://github.com/devshahed/launchpage):** A sleek, responsive webpage design.  
+
   
 Feel free to explore and contribute!
 
