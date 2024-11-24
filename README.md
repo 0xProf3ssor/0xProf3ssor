@@ -2,13 +2,6 @@
 
 Welcome to my GitHub profile! I am passionate about AI, machine learning, nanotechnology, and robotics, with a goal to integrate AI into these fields. I'm currently exploring machine learning, and I'm always eager to learn new technologies and improve my skills. 🚀
 
-<h1 align="center">Hi 👋, I'm Shahedul Islam</h1>
-<h3 align="center">A passionate Web developer from Dhaka, Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xprof3ssor&label=Profile%20views&color=0e75b6&style=flat" alt="0xprof3ssor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xprof3ssor" alt="0xprof3ssor" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Web Development, Java**
