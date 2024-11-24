@@ -42,8 +42,6 @@ Here are some of my projects:
 
 - [Atomic Health](https://github.com/devshahed/atomic-health): A health-related project built with HTML.
 - [Launch Page](https://github.com/devshahed/launchpage): A clean landing page made using CSS.
-- [Shahed Portfolio](https://github.com/devshahed/shahed): My personal portfolio created with Bootstrap 4.5.
-- [Clock](https://github.com/devshahed/clock): A digital clock using CSS.
   
 Feel free to explore and contribute!
 
