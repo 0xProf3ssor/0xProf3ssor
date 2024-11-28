@@ -57,9 +57,5 @@ When I’m not coding, I’m exploring futuristic technologies that bridge the g
   
 Feel free to explore and contribute!
 
-## 🌍 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/shahedul-islam/)
-- [Twitter](https://twitter.com/devshahed)
 
 Thanks for visiting my profile, and happy coding! 😊
